@@ -1,0 +1,5 @@
+- Este é um programa em C que implementa uma pilha usando listas encadeadas.
+- Ele oferece as seguintes operações: empilhar, mostrar a pilha, exibir o valor no topo da pilha, excluir toda a pilha, desempilhar e sair do programa.
+- Cada elemento da pilha é representado por uma estrutura `No` que armazena um valor inteiro e um ponteiro para o nó anterior na pilha.
+- As funções principais incluem `empilha` (para adicionar elementos à pilha), `mostra` (para exibir todos os elementos da pilha), `exibeTopo` (para mostrar o valor no topo da pilha), `excluir` (para excluir todos os elementos da pilha) e `desempilha` (para remover o elemento do topo da pilha).
+- A função `main` apresenta um menu de opções para o usuário interagir com a pilha até optar por sair do programa.
